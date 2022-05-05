@@ -22,7 +22,7 @@ const Header = () => {
 					<LinkContainer to="/" className="mr-5">
 						<Navbar.Brand className="link-to-main">
 							<div className="logo-container"></div>
-							<span className="pl-2">Book Shop</span>
+							<span className="pl-2">LibShare</span>
 						</Navbar.Brand>
 					</LinkContainer>
 
