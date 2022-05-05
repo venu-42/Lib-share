@@ -40,7 +40,7 @@ const Header = () => {
 								<>
 									<LinkContainer to="/upload">
 										<Nav.Link className="">
-											<Icon.PlusCircle />
+											<Icon.PlusCircle style={{fontSize:"1.6em"}} />
 										</Nav.Link>
 									</LinkContainer>
 									<NavDropdown

@@ -13,6 +13,7 @@ import { useAppDispatch, useAppSelector } from "../../../redux/hooks";
 import Loader from "../../Loader/Loader";
 import Message from "../../Message/Message";
 import { register } from "../../../redux/actions/userActions";
+import { createProduct1 } from "../../../redux/actions/productActions";
 import FormContainer from "../../FormContainer/FormContainer";
 import axios from "axios";
 // import FileBase64 from 'react-file-base64';
@@ -51,34 +52,28 @@ const RegisterScreen = ({ location, history }: RouteChildrenProps) => {
   // 	// eslint-disable-next-line react-hooks/exhaustive-deps
   // }, [dispatch, history, success, user, userInfo]);
 
+  const [baseImage, setBaseImage] = useState("");
+
   const submitHandler = async (event: FormEvent) => {
     event.preventDefault();
-    // if (password === confirmPassword) {
-    // 	dispatch(register(name, email, password));
-    // } else {
-    // 	setMessage("Passwords are not equal!");
-    // }
-    const res = await axios.post(
-      `https://api.imgbb.com/1/upload?key=854ed91d100340223ee8d1c8afe94ede`,
-      {
-        image: baseImage,
-      },
-      {
-        headers: {
-          "Access-Control-Allow-Origin": "*",
-          "Access-Control-Allow-Headers":
-            "Origin, X-Requested-With, Content-Type, Accept",
-          "Content-Type": "application/json",
-          Accept: "application/json",
-        },
-      }
-    );
-    console.log(res);
+    const data = {
+      name:title,
+      category:"frictional",
+      image:baseImage,
+      author,
+      brand:"bookstall",
+      price,
+      inStock:4,
+      description
+    }
+    const y:any = dispatch(createProduct1(data));
+    if(y) history.push('/');
+    
+    // console.log(res);
   };
 
   const getFiles = () => {};
 
-  const [baseImage, setBaseImage] = useState("");
 
   const uploadImage = async (e: any) => {
     const file = e.target.files[0];
@@ -108,7 +103,7 @@ const RegisterScreen = ({ location, history }: RouteChildrenProps) => {
   };
 
   useEffect(() => {
-    console.log(baseImage);
+    // console.log(baseImage);
   }, [baseImage]);
 
   return (

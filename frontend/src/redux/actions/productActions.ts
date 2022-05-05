@@ -118,6 +118,34 @@ export const createProduct = (): AppThunk => async (dispatch, getState) => {
 	}
 };
 
+export const createProduct1 = (x:any): AppThunk => async (dispatch, getState) => {
+	try {
+		dispatch({ type: PRODUCT_CREATE_REQUEST });
+		const {
+			userLogin: { userInfo },
+		} = getState();
+		const config = {
+			headers: {
+				Authorization: `Bearer ${userInfo!.token}`,
+			},
+		};
+		console.log(userInfo);
+		x.user = userInfo;
+		console.log("SUUUUUUJJJJJJJJ",x);
+		const { data } = await axios.post("/api/products", x, config);
+		dispatch({ type: PRODUCT_CREATE_SUCCESS, payload: data });
+		return data;
+	} catch (error:any) {
+		dispatch({
+			type: PRODUCT_CREATE_FAIL,
+			payload:
+				error.response && error.response.data.message
+					? error.response.data.message
+					: error.message,
+		});
+	}
+};
+
 export const editProduct =
 	(product: Product): AppThunk =>
 	async (dispatch, getState) => {

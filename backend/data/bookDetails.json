@@ -1,0 +1,402 @@
+[
+    {
+        "name":"Harry Potter ",
+        "description":"Harry Potter is a series of seven fantasy novels written by British author J. K. Rowling. The novels chronicle the lives of a young wizard, Harry Potter, and his friends Hermione Granger and Ron Weasley, all of whom are students at Hogwarts School of Witchcraft and Wizardry. The main story arc concerns Harry's struggle against Lord Voldemort, a dark wizard who intends to become immortal, overthrow the wizard governing body known as the Ministry of Magic and subjugate all wizards and Muggles.",
+        "author":"J. K. Rowling",
+        "price":"45",
+        "image":"https://i.ibb.co/kxMsWy9/harrypotter.jpg",
+        "brand":"bookstall",
+        "category":"frictional",
+        "inStock":"5"
+    },
+    {
+        "name":"To Kill a Mockingbird",
+        "description":"Harper Lee, believed to be one of the most influential authors to have ever existed, famously published only a single novel (up until its controversial sequel was published in 2015 just before her death). Lee’s To Kill a Mockingbird was published in 1960 and became an immediate classic of literature. The novel examines racism in the American South through the innocent wide eyes of a clever young girl named Jean Louise (“Scout”) Finch. Its iconic characters, most notably the sympathetic and just lawyer and father Atticus Finch, served as role models and changed perspectives in the United States at a time when tensions regarding race were high.",
+        "author":"Harper Lee",
+        "price":"20",
+        "image":"https://i.ibb.co/mq7NXR2/book-cover-To-Kill-a-Mockingbird-many-1961.webp",
+        "brand":"bookstall",
+        "category":"frictional",
+        "inStock":"3"
+    },
+    {
+        "name":"Wings of Fire ",
+        "description":"Wings of Fire (1999), is the autobiography of the Missile Man of India and President of India, Dr. A. P. J. Abdul Kalam. It was written by him and Arun Tiwari.[1]In the autobiography, Dr. Kalam examines his early life, effort, hardship, fortitude, luck and chance that eventually led him to lead Indian space research, nuclear and missile programs.        ",
+        "author":"A. P. J. Abdul Kalam",
+        "price":"30",
+        "image":"https://i.ibb.co/L1m0Gsr/Wings-of-Fire-by-A-P-J-Abdul-Kalam-Book-Cover.jpg",
+        "brand":"bookstall",
+        "category":"frictional",
+        "inStock":"6"
+    }, 
+    {
+        "name":"Ignited Minds",
+        "description":"Unleashing the Power Within India is a book written by A. P. J. Abdul Kalam, who was the President of India from 2002 to 2007. Ignited Minds is a logical step forward from Dr. Kalam's earlier book, India 2020: A Vision for the New Millennium.",
+        "author":". A. P. J. Abdul Kalam",
+        "price":"25",
+        "image":"https://i.ibb.co/MkzbN5j/Ignite-Minds.jpg",
+        "brand":"bookstall",
+        "category":"frictional",
+        "inStock":"4"
+    },
+    {
+        "name":"You Are Born To Blossom",
+        "description":"This book is an account of how Dr. Kalam visualizes Information and Communication Technology mining the rural talent. Here, Dr. Kalam presents his dream of schools in India at 2020 as symbiotic nerve centres connecting teachers, students and community.",
+        "author":"A. P. J. Abdul Kalam",
+        "price":"15",
+        "image":"https://i.ibb.co/mH9SFK9/You-Are-Born-To-Blossom.jpg",
+        "brand":"bookstall",
+        "category":"frictional",
+        "inStock":"3"
+    },
+    {
+        "name":"Think Like a Monk",
+        "description":"Jay Shetty, social media superstar and host of the #1 podcast 'On Purpose', distils the timeless wisdom he learned as a practising monk into practical steps anyone can take every day to live a less anxious, more meaningful life. In this inspiring, empowering book, Shetty draws on his time as a monk in the Vedic tradition to show us how we can clear the roadblocks to our potential and power. Drawing on ancient wisdom and his own rich experiences in the ashram, Think Like a Monk reveals how to overcome negative thoughts and habits, and access the calm and purpose that lie within all of us.",
+        "author":"Jay Shetty",
+        "price":"25",
+        "image":"https://i.ibb.co/1bhcNQF/Think-Like-a-Monk.jpg",
+        "brand":"bookstall",
+        "category":"frictional",
+        "inStock":"7"
+    },
+    {
+        "name":"Atomic habit ",
+        "description":"An atomic habit is a regular practice or routine that is not only small and easy to do but is also the source of incredible power; a component of the system of compound growth. Bad habits repeat themselves again and again not because you don't want to change, but because you have the wrong system for change.",
+        "author":"James Clear",
+        "price":"35",
+        "image":"https://i.ibb.co/9c5fy0L/atomic-habit.jpg",
+        "brand":"bookstall",
+        "category":"frictional",
+        "inStock":"3"
+    },
+    {
+        "name":"The Subtle Art of Not Giving a Fuck",
+        "description":": A Counterintuitive Approach to Living a Good Life is the second book by blogger and author Mark Manson. In it, Manson argues that life's struggles give it meaning, and that the mindless positivity of typical self-help books is neither practical nor helpful.",
+        "author":"Mark Manson",
+        "price":"15",
+        "image":"https://i.ibb.co/sjQWDJs/the-subtle-art-of-not-giving-a-f.png",
+        "brand":"bookstall",
+        "category":"frictional",
+        "inStock":"2"
+    },
+    {
+        "name":"Life's Amazing Secrets: How to Find Balance and Purpose in Your Life",
+        "description":"Stop going through life, Start growing through life! While navigating their way through Mumbai's horrendous traffic, Gaur Gopal Das and his wealthy young friend Harry get talking, delving into concepts ranging from the human condition to finding one's purpose in life and the key to lasting happiness",
+        "author":"Gaur Gopal Das",
+        "price":"25",
+        "image":"https://i.ibb.co/TLpfvnK/Life-s-Amazing-Secrets.jpg",
+        "brand":"bookstall",
+        "category":"frictional",
+        "inStock":"4"
+    },
+    {
+        "name":"Can't Hurt Me",
+        "description":"Can't Hurt Me, he shares his astonishing life story and reveals that most of us tap into only 40% of our capabilities. Goggins calls this The 40% Rule, and his story illuminates a path that anyone can follow to push past pain, demolish fear, and reach their full potential.",
+        "author":"David Goggins",
+        "price":"50",
+        "image":"https://i.ibb.co/1LXrx4w/Can-t-Hurt-Me.jpg",
+        "brand":"bookstall",
+        "category":"frictional",
+        "inStock":"1"
+    },
+    {
+        "name":"The Monk Who Sold His Ferrari ",
+        "description":"The Monk Who Sold His Ferrari is a self-help book by Robin Sharma, a writer and motivational speaker. The book is a business fable derived from Sharma's personal experiences after leaving his career as a litigation lawyer at the age of 25.",
+        "author":"Robin Sharma",
+        "price":"30",
+        "image":"https://i.ibb.co/0QWRhQ5/The-Monk-Who-Sold-His-Ferrari.png",
+        "brand":"bookstall",
+        "category":"frictional",
+        "inStock":"2"
+    },
+    {
+        "name":"Think and Grow Rich",
+        "description":"This is a book written by Napoleon Hill in 1937 and promoted as a personal development and self-improvement book. He claimed to be inspired by a suggestion from business magnate and later-philanthropist Andrew Carnegie.",
+        "author":"Napoleon Hill",
+        "price":"30",
+        "image":"https://i.ibb.co/jz1zT8H/Think-and-Grow-Rich.jpg",
+        "brand":"bookstall",
+        "category":"frictional",
+        "inStock":"3"
+    },
+    {
+        "name":"Ikigai",
+        "description":"It's the Japanese word for ‘a reason to live’ or ‘a reason to jump out of bed in the morning’. It’s the place where your needs, desires, ambitions, and satisfaction meet.",
+        "author":"Hector Garcia, Francesc Miralles",
+        "price":"20",
+        "image":"https://i.ibb.co/n7XYbWt/Ikigai.jpg",
+        "brand":"bookstall",
+        "category":"frictional",
+        "inStock":"5"
+    },
+    {
+        "name":"The Psychology of Money",
+        "description":"Doing well with money isn’t necessarily about what you know. It’s about how you behave. And behavior is hard to teach, even to really smart people.Money—investing, personal finance, and business decisions—is typically taught as a math-based field, where data and formulas tell us exactly what to do.",
+        "author":"Morgan Housel",
+        "price":"40",
+        "image":"https://i.ibb.co/WB4y3fc/The-Psychology-of-Money.jpg",
+        "brand":"bookstall",
+        "category":"frictional",
+        "inStock":"4"
+    },
+    {
+        "name":"The Power of Now",
+        "description":"A Guide to Spiritual Enlightenment is a book by Eckhart Tolle. It presents itself as a discussion about how people interact with themselves and others. The concept of self reflection and presence in the moment are presented along with simple exercises for the achievement of its principles.",
+        "author":"Eckhart Tolle",
+        "price":"15",
+        "image":"https://i.ibb.co/3WcPt3D/The-Power-of-Now.jpg",
+        "brand":"bookstall",
+        "category":"frictional",
+        "inStock":"1"
+    },
+    {
+        "name":"The power of your subconscious mind ",
+        "description":"Here is the complete, original text of the millions-selling self- help guide that reveals your invisible power to attain any goal-paired with a compelling bonus work, How to Attract Money.",
+        "author":"Joseph Murphy",
+        "price":"20",
+        "image":"https://i.ibb.co/bPSyz7V/The-Power-of-your-subconscious-mind.jpg",
+        "brand":"bookstall",
+        "category":"frictional",
+        "inStock":"4"
+    },
+    {
+        "name":"Thinking, Fast and Slow ",
+        "description":"Thinking, Fast and Slow is a 2011 book by Israeli-American psychologist Daniel Kahneman. The book's main thesis is that of a dichotomy between two modes of thought: 'System 1' is fast, instinctive and emotional; 'System 2' is slower, more deliberative, and more logical.",
+        "author":"Daniel Kahneman",
+        "price":"25",
+        "image":"https://i.ibb.co/2jwnNDs/Thinking-Fast-and-Slow.jpg",
+        "brand":"bookstall",
+        "category":"frictional",
+        "inStock":"3"
+    },
+    {
+        "name":"The 5AM Club: Own Your Morning",
+        "description":"Legendary leadership and elite performance expert Robin Sharma introduced The 5am Club concept over twenty years ago, based on a revolutionary morning routine that has helped his clients maximize their productivity, activate their best health and bulletproof their serenity in this age of overwhelming complexity",
+        "author":"Robin Sharma",
+        "price":"30",
+        "image":"https://i.ibb.co/sqKdnx9/The-5-AM-Club-Own-Your-Morning.jpg",
+        "brand":"bookstall",
+        "category":"frictional",
+        "inStock":"2"
+    },
+    {
+        "name":"The 48 Laws of Power",
+        "description":"The 48 Laws of Power is a non-fiction book by American author Robert Greene. The book is a New York Times bestseller, selling over 1.2 million copies in the United States, and is popular with prison inmates and celebrities",
+        "author":"Robert Greene",
+        "price":"30",
+        "image":"https://i.ibb.co/R3xZ5TP/The-48-Laws-of-Power.png",
+        "brand":"bookstall",
+        "category":"frictional",
+        "inStock":"3"
+    },
+    {
+        "name":"The 4-Hour Workweek",
+        "description":"The 4-Hour Workweek: Escape 9–5, Live Anywhere, and Join the New Rich is a self-help book by Timothy Ferriss, an American writer, educational activist, and entrepreneur.",
+        "author":"Tim Ferriss",
+        "price":"15",
+        "image":"https://i.ibb.co/CJtcv7X/The-4-Hour-Workweek.png",
+        "brand":"bookstall",
+        "category":"frictional",
+        "inStock":"4"
+    },
+    {
+        "name":"The Compound Effect",
+        "description":"The New York Times and Wall Street Journal bestseller, based on the principle that little, everyday decisions will either take you to the life you desire or to disaster by default. No gimmicks. No Hyperbole. No Magic Bullet.",
+        "author":"Darren Hardy",
+        "price":"30",
+        "image":"https://i.ibb.co/grswh0n/The-Compound-Effect.jpg",
+        "brand":"bookstall",
+        "category":"frictional",
+        "inStock":"1"
+    },
+    {
+        "name":"How to win friends and influence people",
+        "description":"How to Win Friends and Influence People is a self-help book written by Dale Carnegie, published in 1936. Over 30 million copies have been sold worldwide, making it one of the best-selling books of all time.",
+        "author":"Dale Carnegie",
+        "price":"20",
+        "image":"https://i.ibb.co/0rb637h/How-to-win-friends-and-influence-people.jpg",
+        "brand":"bookstall",
+        "category":"frictional",
+        "inStock":"5"
+    },
+    {
+        "name":"12 Rules for Life",
+        "description":"12 Rules for Life is an Antidote to Chaos is a 2018 self-help book by the Canadian clinical psychologist Jordan Peterson. It provides life advice through essays in abstract ethical principles, psychology, mythology, religion, and personal anecdotes.",
+        "author":"Jordan Peterson",
+        "price":"15",
+        "image":"https://i.ibb.co/tZhSZ16/12-Rules-for-Life.png",
+        "brand":"bookstall",
+        "category":"frictional",
+        "inStock":"2"
+    }, 
+    {
+        "name":"The Courage to be Disliked",
+        "description":"The Courage to be Disliked is a book that instructs readers how to have the courage to live a happy, authentic life. All of the advice of the philosopher hinges on retraining your mind to accept yourself as you are, and in turn to accept others as they are.",
+        "author":"Ichiro Kishimi, Fumitake Koga",
+        "price":"10",
+        "image":"https://i.ibb.co/bzSYL0M/The-Courage-to-be-Disliked.jpg",
+        "brand":"bookstall",
+        "category":"frictional",
+        "inStock":"4"
+    },
+    {
+        "name":"The Power of Habit",
+        "description":"The Power of Habit: Why We Do What We Do in Life and Business is a book by Charles Duhigg, a New York Times reporter, published in February 2012 by Random House. It explores the science behind habit creation and reformation.",
+        "author":"Charles Duhigg",
+        "price":"35",
+        "image":"https://i.ibb.co/181TYJD/the-power-of-habit.jpg",
+        "brand":"bookstall",
+        "category":"frictional",
+        "inStock":"2"
+    },
+    {
+        "name":"What Young India Wants ",
+        "description":"What Young India Wants is a compilation of speeches and essays by Chetan Bhagat, published in 2012. It focuses on Indian society and politics from the perspective of the country's youth. The book revolves around Bhagat's thoughts and innovations on how to improve the Indian economy through social reforms.",
+        "author":"Chetan Bhagat",
+        "price":"45",
+        "image":"https://i.ibb.co/G7ZDYFW/What-Young-India-Wants.jpg",
+        "brand":"bookstall",
+        "category":"frictional",
+        "inStock":"2"
+    },
+    {
+        "name":"The Sign of the Four ",
+        "description":"The Sign of the Four, also called The Sign of Four, is the second novel featuring Sherlock Holmes written by Sir Arthur Conan Doyle. Doyle wrote four novels and 56 short stories featuring the fictional detective.",
+        "author":"Arthur Conan Doyle",
+        "price":"10",
+        "image":"https://i.ibb.co/F00YNCd/The-Sign-of-the-Four.jpg",
+        "brand":"bookstall",
+        "category":"frictional",
+        "inStock":"5"
+    },
+    {
+        "name":"The Adventure of the Empty House",
+        "description":"'The Adventure of the Empty House', one of the 56 Sherlock Holmes short stories written by Sir Arthur Conan Doyle, is one of 13 stories in the cycle collected as The Return of Sherlock Holmes",
+        "author":"Arthur Conan Doyle",
+        "price":"20",
+        "image":"https://i.ibb.co/ZzKzdt7/The-Adventure-of-the-Empty-House.jpg",
+        "brand":"bookstall",
+        "category":"frictional",
+        "inStock":"2"
+    },
+    {
+        "name":"Your Money Or Your Life",
+        "description":"A fully revised edition of one of the most influential books ever written on personal finance with more than a million copies sold “The best book on money. Period.” –Grant Sabatier, founder of “Millennial Money,” on CNBC Make It 'This is a wonderful book. It can really change your life.'",
+        "author":"Vicki Robin, Joseph R. Dominguez",
+        "price":"30",
+        "image":"https://i.ibb.co/Ln6zmxP/Your-Money-Or-Your-Life.jpg",
+        "brand":"bookstall",
+        "category":"frictional",
+        "inStock":"6"
+    },
+    {
+        "name":"I Will Teach You to Be Rich",
+        "description":"I Will Teach You To Be Rich is a 2009 personal finance book by Ramit Sethi who writes a blog of the same name. The book, published by Workman became a New York Times Bestseller.",
+        "author":"Ramit Sethi",
+        "price":"20",
+        "image":"https://i.ibb.co/v3r8hB0/I-Will-Teach-You-to-Be-Rich.png",
+        "brand":"bookstall",
+        "category":"frictional",
+        "inStock":"1"
+    },
+    {
+        "name":"The Alchemy of Finance",
+        "description":"Soros reveals the investment strategies that have made him the most powerful and profitable investor in the world today. He provides an excellent guide of the marketplace, along with the specific economic and political history of recent times. Copyright © Libri GmbH. All rights reserved",
+        "author":"George Soros",
+        "price":"45",
+        "image":"https://i.ibb.co/RT926gf/The-Alchemy-of-Finance.jpg",
+        "brand":"bookstall",
+        "category":"frictional",
+        "inStock":"2"
+    },
+    {
+        "name":"Surrounded by Idiots",
+        "description":"Do you ever think you’re the only one making any sense? Or tried to reason with your partner with disastrous results? Do long, rambling answers drive you crazy? Or does your colleague’s abrasive manner get your back up? You are not alone",
+        "author":"Thomas Erikson",
+        "price":"10",
+        "image":"https://i.ibb.co/PgdfQTK/Surrounded-by-Idiots.jpg",
+        "brand":"bookstall",
+        "category":"frictional",
+        "inStock":"5"
+    },
+    {
+        "name":"From Lost to Found on the Pacific Crest Trail",
+        "description":"From Lost to Found on the Pacific Crest Trail is the 2012 memoir by the American writer, author, and podcaster Cheryl Strayed. The memoir describes Strayed's 1,100-mile hike on the Pacific Crest Trail in 1995 as a journey of self-discovery.",
+        "author":"Cheryl Strayed",
+        "price":"30",
+        "image":"https://i.ibb.co/XFcdwFc/From-Lost-to-Found-on-the-Pacific-Crest-Trail.jpg",
+        "brand":"bookstall",
+        "category":"frictional",
+        "inStock":"1"
+    },
+    {
+        "name":"Into the Wild",
+        "description":"Into the Wild is a 1996 non-fiction book written by Jon Krakauer. It is an expansion of a 9,000-word article by Krakauer on Chris McCandless titled 'Death of an Innocent', which appeared in the January 1993 issue of Outside.",
+        "author":"Jon Krakauer",
+        "price":"30",
+        "image":"https://i.ibb.co/z2T7x0N/Into-the-Wild.jpg",
+        "brand":"bookstall",
+        "category":"frictional",
+        "inStock":"3"
+    },
+    {
+        "name":"Treasure Island",
+        "description":"Treasure Island is an adventure novel by Scottish author Robert Louis Stevenson, telling a story of 'buccaneers and buried gold'. It is considered a coming-of-age story and is noted for its atmosphere, characters, and action.",
+        "author":"Robert Louis Stevenson",
+        "price":"25",
+        "image":"https://i.ibb.co/ssvdgs0/Treasure-Island.jpg",
+        "brand":"bookstall",
+        "category":"frictional",
+        "inStock":"5"
+    },
+    {
+        "name":"Dark Ages",
+        "description":"This is what the Watcher has been watching for. A danger older than the Earth threatens everything. And for once, the heroes who have saved the planet time and again find themselves almost completely powerless in the face of it. X-Men and Avengers will assemble. Spider-people and the Fantastic Four will come together.",
+        "author":"Iban Coello, Nick Bradshaw",
+        "price":"30",
+        "image":"https://i.ibb.co/PrCxkRW/Dark-Ages.jpg",
+        "brand":"bookstall",
+        "category":"frictional",
+        "inStock":"2"
+    },
+    {
+        "name":"Gone Girl",
+        "description":"Gone Girl is a 2012 crime thriller novel by American writer Gillian Flynn. It was published by Crown Publishing Group in June 2012. The novel became popular and made the New York Times Best Seller list.",
+        "author":"Gillian Flynn",
+        "price":"45",
+        "image":"https://i.ibb.co/thMYwBf/Gone-Girl.jpg",
+        "brand":"bookstall",
+        "category":"frictional",
+        "inStock":"1"
+    },
+    {
+        "name":"The Silent Patient",
+        "description":"The Silent Patient is a 2019 psychological thriller novel written by British–Cypriot author Alex Michaelides. The debut novel was published by Celadon Books, a division of Macmillan Publishers, on 5 February 2019. The audiobook version, released on the same date, is read by Louise Brealey and Jack Hawkins.",
+        "author":"Alex Michaelides",
+        "price":"40",
+        "image":"https://i.ibb.co/cD6cpPw/The-Silent-Patient.jpg",
+        "brand":"bookstall",
+        "category":"frictional",
+        "inStock":"4"
+    },
+    {
+        "name":"Smarter Faster Better",
+        "description":"In his international bestseller The Power of Habit, Pulitzer Prize-winner Charles Duhigg explained why we do what we do. Now he applies the same relentless curiosity and masterful analysis to the question- how can each of us achieve more?",
+        "author":"Charles Duhigg",
+        "price":"15",
+        "image":"https://i.ibb.co/N1QVdWs/Smarter-Faster-Better.jpg",
+        "brand":"bookstall",
+        "category":"frictional",
+        "inStock":"2"
+    },
+    {
+        "name":"The Magic of Thinking Big",
+        "description":"The Magic of Thinking Big, first published in 1959, is a self-help book by David J. Schwartz. An abridged version was published in 1987. Forbes called it one of the greatest self-help books.",
+        "author":"David J. Schwartz",
+        "price":"20",
+        "image":"https://i.ibb.co/0CCpP7x/The-Magic-of-Thinking-Big.png",
+        "brand":"bookstall",
+        "category":"frictional",
+        "inStock":"3"
+    }    
+]
